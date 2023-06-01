@@ -7,7 +7,14 @@ ffdfdffdfdfdf
 213
 
 
+
 func2()
 {
 	dsadasd
 }
+
+func1()
+{
+  dasdasdasdasd
+}
+
