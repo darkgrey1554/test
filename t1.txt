@@ -6,3 +6,8 @@ ffdfdffdfdfdf
 123
 213
 
+func1()
+{
+  dasdasdasdasd
+}
+
