@@ -6,7 +6,10 @@ ffdfdffdfdfdf
 123
 213
 
-
+func3()
+{
+	dsadasd
+}
 
 func2()
 {
