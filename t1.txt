@@ -4,3 +4,9 @@ ffdfdffdfdfdf
 3123
 123
 213
+
+
+func2()
+{
+	dsadasd
+}
