@@ -18,3 +18,7 @@ func1()
   dasdasdasdasd
 }
 
+func4()
+{
+  dasdasdasdasd
+}
