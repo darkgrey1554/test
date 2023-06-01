@@ -31,3 +31,8 @@ func5()
 {
   dasdasdasdasd
 }
+
+func6()
+{
+  dasdasdasdasd
+}
