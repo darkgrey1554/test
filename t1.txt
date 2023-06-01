@@ -25,3 +25,14 @@ func4()
 {
   dasdasdasdasd
 }
+
+
+func5()
+{
+  dasdasdasdasd
+}
+
+func6()
+{
+  dasdasdasdasd
+}
